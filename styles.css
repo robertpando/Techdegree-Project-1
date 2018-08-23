@@ -117,7 +117,7 @@ ul.skills {
 }
 
 .skills li:nth-child(odd) {
-  background: ##6ADD6D;
+  background: #black;
 }
 
 footer {
@@ -188,6 +188,14 @@ a.social:hover {
     padding: 0 30px;
   }
 
+.pic2 {
+  margin-left: 70px;
+}
+
+.pic3 {
+  margin-left: 70px;
+}
+
 h2 {
   text-align: center;
   background: black;
@@ -214,6 +222,10 @@ h3 {
 .h3p {
   color: #6ADD6D;
   background-color: white;
+}
+
+.p-goals {
+  color: #6ADD6D;
 }
 
   main {
