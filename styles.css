@@ -55,6 +55,15 @@ a:hover {
   color: #6ADD6D;
 }
 
+h4 {
+  text-align: center;
+  background: black;
+  border: 3px solid black;
+  border-radius: 20px;
+  color: #6ADD6D;
+  padding: 10px;
+}
+
 header {
   text-align: center;
   background: url(images/miamiskyline.jpg) no-repeat top center;
@@ -71,7 +80,7 @@ header .profile-image {
   width: 150px;
   height: 150px;
   border-radius: 50%;
-  border: 3px solid #6ADD6D;
+  border: 5px solid #6ADD6D;
   transition: all .5s;
 }
 header .profile-image:hover {
