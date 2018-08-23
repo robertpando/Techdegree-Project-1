@@ -25,7 +25,7 @@ a:hover {
 
 .main-nav {
   width: 100%;
-  background: #6ADD6D;
+  background: black;
   min-height: 30px;
   padding: 10px;
   position: fixed;
@@ -57,11 +57,12 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('images/miamiskyline.jpg') no-repeat top center ;
+  background: url(images/miamiskyline.jpg) no-repeat top center;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
 }
+
 header {
   line-height: 1.5;
 }
